@@ -1,0 +1,2 @@
+# mydjango
+hellodjango
